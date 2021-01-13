@@ -5,6 +5,7 @@ __Within the scope of this project, a baseline has been created for the determin
 
 ## Inputs
 Landsat 8 satellite image for B3(Green)
+
 Landsat 8 satellite image for B5(NIR)
 
 ## Outputs
