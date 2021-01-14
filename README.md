@@ -3,6 +3,12 @@
 
 __Within the scope of this project, a baseline has been created for the determination of watery regions using NDWI (Normalized Difference Water Index). This index was also used to examine the changes in water bodies such as floods.__
 
+The NDWI Formula is shown below:
+
+### NDWI=(Band3-Band5)/(Band3+Band5)
+
+### Band 3=Green , Band 5=NIR
+
 ## Inputs
 Landsat 8 satellite image for B3(Green)
 
