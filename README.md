@@ -28,3 +28,6 @@ _https://en.wikipedia.org/wiki/Normalized_difference_water_index_
 _https://www.youtube.com/watch?v=dw2aNRvC5Ts&t=1157s_ 
 
 __Thanks For Your Attention!__
+
+
+![ITU_LOGO](itu-logo.png)
