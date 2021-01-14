@@ -7,6 +7,13 @@ Within the scope of this project, a baseline has been created for the determinat
 - matplotlib
 - notebook
 
+```python 
+  import rasterio
+  from rasterio import plot
+  import matplotlib.pyplot as plt
+  import numpy as np
+  %matplotlib inline
+```
 
 The NDWI Formula is shown below:
 
