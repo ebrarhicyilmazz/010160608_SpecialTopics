@@ -1,7 +1,12 @@
 # Special Topics in Remote Sensing Personal Homework
 ## 010160608 - Ebrar HİÇYILMAZ
 
-__Within the scope of this project, a baseline has been created for the determination of watery regions using NDWI (Normalized Difference Water Index). This index was also used to examine the changes in water bodies such as floods.__
+Within the scope of this project, a baseline has been created for the determination of watery regions using NDWI (Normalized Difference Water Index). This index was also used to examine the changes in water bodies such as floods. In this Project some libraries imported. These are;
+- numpy
+- rasterio
+- matplotlib
+- notebook
+
 
 The NDWI Formula is shown below:
 
