@@ -12,7 +12,7 @@ The NDWI Formula is shown below:
 
 ### NDWI=(Band3-Band5)/(Band3+Band5)
 
-### Band 3=Green , Band 5=NIR
+#### Band 3=Green , Band 5=NIR
 
 ## Inputs
 Landsat 8 satellite image for B3(Green)
